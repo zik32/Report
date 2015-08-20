@@ -6,6 +6,7 @@ L 08/08/2015 - 10:57:42: "bikke <insilio><736><STEAM_0:1:44022449><>" connected,
 L 08/11/2015 - 11:22:50: "bikke <insilio><1650><STEAM_0:1:44022449><>" connected, address "80.234.4.219:27005"
 
 Последние заходы за 15 16 августа 2015
+L 08/15/2015 - 11:52:43: "Player<149><STEAM_0:1:124022751><>" connected, address "95.67.147.125:27005"
 "GOOD RAPPER<994><STEAM_0:0:2341263><>" connected, address "95.67.250.2:27005"
 "GOOD RAPPER<484><STEAM_0:0:2341263><>" connected, address "178.45.52.159:27005"
 "GOOD RAPPER<643><STEAM_0:0:2341263><>" connected, address "88.200.137.14:59058"
