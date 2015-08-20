@@ -31,6 +31,7 @@ Steam_id и ссылка на профиль
 STEAM_0:1:32828442 http://steamcommunity.com/id/bikkeouls/
 STEAM_0:1:44022449 http://steamcommunity.com/id/3BEPb800/
 STEAM_0:0:2341263 http://steamcommunity.com/profiles/76561197964948254
+STEAM_0:1:124022751 http://steamcommunity.com/profiles/76561198208311231
 
 IP адреса
 178.45.169.238:27005
