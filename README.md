@@ -54,5 +54,6 @@ L 08/10/2015 - 00:55:35: "1mp<489><STEAM_0:0:30319822><>" connected, address "95
 Попытка атаковать сервер
 L 08/21/2015 - 00:06:41: "Satisfaction<834><STEAM_0:0:55764908><>" connected, address "5.165.207.249:27005"
 L 08/21/2015 - 00:07:17: "____**max!!!!**___<835><STEAM_0:0:1185238729><>" connected, address "5.165.207.249:57309"
+ping 25
 Новый софт
 1) STEAM_0:0:55764908 http://steamcommunity.com/id/seviksw/
