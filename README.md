@@ -33,6 +33,7 @@ STEAM_0:1:32828442 http://steamcommunity.com/id/bikkeouls/
 STEAM_0:1:44022449 http://steamcommunity.com/id/3BEPb800/
 STEAM_0:0:2341263 http://steamcommunity.com/profiles/76561197964948254
 STEAM_0:1:124022751 http://steamcommunity.com/profiles/76561198208311231
+STEAM_0:1:44022449 http://steamcommunity.com/id/3BEPb800/
 
 IP адреса
 178.45.169.238:27005
@@ -83,6 +84,7 @@ IP адреса
 91.185.80.0/20
 95.67.198.213 bugurt STEAM_0:0:385786916  02/09/2016 - 22:53:07
 L 02/10/2016 - 20:26:21 178.45.172.138
+nespravedlivo	STEAM_0:1:44022449	Город: Самара  88.200.136.117
 -------------------------------------------------------
 Неопознанный steam_id с VAC ban-ом, говорит он insilio создатель.
 http://steamcommunity.com/id/serenavanderwoodsen/
