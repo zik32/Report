@@ -39,6 +39,8 @@ STEAM_0:1:44022449 http://steamcommunity.com/id/3BEPb800/
 STEAM_0:0:48423464 http://steamcommunity.com/profiles/76561198057112656
 STEAM_0:0:597564981 http://steamcommunity.com/id/dozebooster/
 
+STEAM_0:1:70244464 http://steamcommunity.com/profiles/76561198100754657
+
 IP адреса
 178.45.169.238:27005
 178.45.169.182:27005
@@ -85,6 +87,8 @@ IP адреса
 95.67.214.92
 109.169.182.180
 88.200.215.191
+
+80.234.85.52
 
 178.45.48.0/21
 178.45.160.0/20
