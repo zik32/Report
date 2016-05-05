@@ -35,10 +35,11 @@ STEAM_0:0:2341263 http://steamcommunity.com/profiles/76561197964948254
 STEAM_0:1:124022751 http://steamcommunity.com/profiles/76561198208311231
 STEAM_0:1:33334791 http://steamcommunity.com/profiles/76561198026935311
 
-STEAM_0:1:44022449 http://steamcommunity.com/id/3BEPb800/
+временные
 STEAM_0:0:48423464 http://steamcommunity.com/profiles/76561198057112656
 STEAM_0:0:597564981 http://steamcommunity.com/id/dozebooster/
 
+последний
 STEAM_0:1:70244464 http://steamcommunity.com/profiles/76561198100754657
 
 IP адреса
@@ -90,6 +91,7 @@ IP адреса
 
 80.234.85.52
 
+подсети
 178.45.48.0/21
 178.45.160.0/20
 88.200.136.0/23
