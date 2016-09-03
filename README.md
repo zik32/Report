@@ -37,7 +37,6 @@ STEAM_0:1:33334791 http://steamcommunity.com/profiles/76561198026935311
 STEAM_0:1:70244464 http://steamcommunity.com/profiles/76561198100754657
 STEAM_0:1:173860732 http://steamcommunity.com/profiles/76561198307987193
 
-STEAM_0:0:151753597
 временки
 STEAM_0:0:48423464 http://steamcommunity.com/profiles/76561198057112656
 STEAM_0:0:597564981 http://steamcommunity.com/id/dozebooster/
@@ -127,7 +126,6 @@ L 02/15/2016 - 17:43:04: "bugor<31801><STEAM_0:0:48423464><>" connected, address
 L 02/15/2016 - 20:59:53: "x<32207><STEAM_0:1:33334791><>" connected, address "109.169.219.208:27005"
 L 02/16/2016 - 14:02:53: "t<604><STEAM_0:0:597564981><>" connected, address "88.200.137.226:45446"
 L 04/27/2016 - 18:30:01 emptythumper	STEAM_0:1:70244464	Город: Самара  88.200.137.228
-Every move is magic	STEAM_0:0:151753597	Страна: Russian Federation , Город: Perm  88.200.136.187
 -------------------------------------------------------
 Неопознанный steam_id с VAC ban-ом, говорит он insilio создатель.
 http://steamcommunity.com/id/serenavanderwoodsen/
