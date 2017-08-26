@@ -36,6 +36,8 @@ STEAM_0:1:124022751 http://steamcommunity.com/profiles/76561198208311231
 STEAM_0:1:33334791 http://steamcommunity.com/profiles/76561198026935311
 STEAM_0:1:70244464 http://steamcommunity.com/profiles/76561198100754657
 STEAM_0:1:173860732 http://steamcommunity.com/profiles/76561198307987193
+STEAM_0:1:22820037
+STEAM_0:0:227324511
 
 временки
 STEAM_0:0:48423464 http://steamcommunity.com/profiles/76561198057112656
