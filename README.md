@@ -158,7 +158,7 @@ STEAM_0:1:29821501 unsti 178.205.53.207 loluta agro
 Attack spoof query >24mb <34mb
 http://pay.megamozg.su/bans/23264.html
 L 09/04/2015 - 21:38:53: "TEARS @ flusha /A/<1819><STEAM_0:1:122294411><>" connected, address "159.224.40.146:27005"
-
+Ник:2015
 92.49.128.0/18
 95.71.128.0/18
 178.45.192.0/20
